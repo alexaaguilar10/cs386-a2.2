@@ -2,4 +2,7 @@
 Class Assignment
 # Zazel Turner 
 # Alexa Aguilar
+Hi, I’m Alexa. I’m majoring in Software Engineering with a minor in Spanish. I love going on random side quests.
+
+
 
