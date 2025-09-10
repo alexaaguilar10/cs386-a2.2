@@ -3,3 +3,4 @@ Class Assignment
 # Zazel Turner 
 # Alexa Aguilar
 # Kaylee Cromwell
+some information
