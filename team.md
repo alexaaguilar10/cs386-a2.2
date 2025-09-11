@@ -1,5 +1,5 @@
 # cs386-a2.2
-Class Assignment
+Class Assignment A2.2. collaborative assignment
 # Zazel Turner 
 i have a very cute little cat named valentine and she is the bane of my exsistance
 # Alexa Aguilar
