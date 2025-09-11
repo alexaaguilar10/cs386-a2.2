@@ -6,3 +6,4 @@ i have a very cute little cat named valentine and she is the bane of my exsistan
 Hi, I’m Alexa. I’m majoring in Software Engineering with a minor in Spanish. I enjoy going on random side quests and playing video games.
 
 # Kaylee Cromwell
+some information to add
